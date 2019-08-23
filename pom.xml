@@ -10,7 +10,7 @@
 
     <groupId>com.github.teriks</groupId>
     <artifactId>img2a</artifactId>
-    <version>1.2.3</version>
+    <version>1.2.4-SNAPSHOT</version>
 
     <name>img2a</name>
     <url>https://github.com/Teriks/img2a</url>
@@ -45,7 +45,7 @@
         <connection>scm:git:git://github.com/Teriks/img2a.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/Teriks/img2a.git</developerConnection>
         <url>https://github.com/Teriks/img2a</url>
-        <tag>1.2.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
